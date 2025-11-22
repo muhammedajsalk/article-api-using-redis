@@ -1,0 +1,4 @@
+const CACHE_TTL = {
+  ARTICLES: 30,
+  ARTICLE_BY_ID: 60,
+};
